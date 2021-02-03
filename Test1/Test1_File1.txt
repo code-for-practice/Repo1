@@ -10,5 +10,5 @@ Test8 in Branch1 <changes made in Branch2 after creating and pushing Branch2 int
 Test10 in Branch2 <changes made in Branch2>
 Test11 in Branch3 <changes made in Branch3>
 Test12 in Branch2 <changes made in Branch2>
---------------------------------------------
+Test13 in Branch2 <changes made in Branch2>
 Test14 in Branch3 <changes made in Branch3>
