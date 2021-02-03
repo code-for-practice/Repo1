@@ -5,3 +5,4 @@ Test3 in Branch1
 Test4 in Branch1
 Test5 in Branch1
 Test6 in Branch1
+Test7 in Branch1 <changes made in Branch1>
