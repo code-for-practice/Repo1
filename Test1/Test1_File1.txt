@@ -7,9 +7,4 @@ Test5 in Branch1
 Test6 in Branch1
 Test7 in Branch1 <changes made in Branch1>
 Test8 in Branch1 <changes made in Branch2 after creating and pushing Branch2 into git>
-<<<<<<< HEAD
 Test9 in Branch1 <changes made in Branch2 and creating and pushing in Branch3 into git>
-Test10 in Branch2 <changes made in Branch2>
-=======
-Test9 in Branch1 <changes made in Branch2 and creating and pushing in Branch3 into git>
->>>>>>> 576ea8bed827649f7f64aaf2e3c1368a36b9fc6d
